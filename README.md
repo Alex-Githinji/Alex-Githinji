@@ -1,4 +1,4 @@
-# Am working on being a fulltack developer
+# Am working on being a fullstack developer
 
 ## Currently a web developer  
 
